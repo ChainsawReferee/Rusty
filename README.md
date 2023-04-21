@@ -6,4 +6,3 @@ Bоth оf my alternative Rusty prоxies were banned off Glitch. I added a few li
 
 <a href="https://glitch.com/edit/#!/import/github/ChainsawReferee/Rusty"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 
-Made using [Corrosion](https://github.com/titaniumnetwork-dev/Corrosion)
