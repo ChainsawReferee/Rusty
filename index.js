@@ -18,7 +18,7 @@ const proxy = new Corrosion({
 app.use('/', express.static(__dirname + '/public'));
 
 app.get('/', (req, res) => {
-  res.sendFile(__dirname + "/public/index.html")
+  res.sendFile(__dirname + "/public/no.html")
 });
 
 app.use('/', function (req, res) {
